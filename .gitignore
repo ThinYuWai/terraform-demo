@@ -3,3 +3,4 @@
 .terraform.locl.hcl
 */.terraform/*
 */.ssh/*
+*/aws
