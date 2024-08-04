@@ -1,0 +1,5 @@
+.terraform/*
+.ssh/*
+.terraform.locl.hcl
+*/.terraform/*
+*/.ssh/*
