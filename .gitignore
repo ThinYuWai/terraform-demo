@@ -1,6 +1,11 @@
+.DS_Store
 .terraform/*
 .ssh/*
 .terraform.locl.hcl
 */.terraform/*
 */.ssh/*
 */aws
+*/.terraform.lock.hcl
+.terraform.lock.hcl
+*/*.zip
+*.zip
